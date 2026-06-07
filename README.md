@@ -32,7 +32,7 @@ This SQL project analyzes insurance customer data to uncover claim patterns, cus
 
 ## Source
 
-Kaggle Link (Dataset): https://www.kaggle.com/datasets/abuthahir1998/synthetic-healthcare-claims-dataset
+Kaggle Link (Dataset): https://www.kaggle.com/datasets/thedevastator/insurance-claim-analysis-demographic-and-health?utm_source=chatgpt.com
 
 ## Tools
 
